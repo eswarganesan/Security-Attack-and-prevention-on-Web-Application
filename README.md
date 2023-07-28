@@ -12,7 +12,7 @@ A secure PHP login system made from scratch with protections against several com
 - XSS protection (see video for how to impliment when adding your own pages with untrusted data on them)
 - All passwords are hashed so that even with access to the database attackers could not obtain users passwords (passwords are hashed and salted)
 
-### Hot to use
+### How to use
 1. Download and install either MAMP/XAMPP (alternatively individually download php, mysql, and an apache server if you know what you are doing)
 2. Ensure you are using an up to date version of PHP. I tested with version 8 but 7 should work however I have not tested it myself.
 3. Copy and paste all files into the public directory
